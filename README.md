@@ -28,5 +28,5 @@ Product management system help to manage (add, update, view and search) any kind
 4. DataBase - SQL Server local DB
 
 Reference Images - 
-
-![Alt text](<Screenshot (46).png>)
+![My Image](images/1.jpg)
+![My Image](images/1)
