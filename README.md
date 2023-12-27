@@ -8,25 +8,26 @@ Product management system help to manage (add, update, view and search) any kind
 3.	User should be able to add and edit products.
 4.	 If product quantity is less than 10, then grid row background should be in red colour and if quantity between 10 to 100 it should be in orange colour and if quantity is more than 100 then it should be in green colour.
 
-## Technical Stack:
-1. Client Side - React 18.2.0 
-        Dependencies - latest version of below libraries 
-            axios
-            bootstrap
-            formik
-            yup
-            react-router-dom:
-            reactjs-popup
-2. Server Side - .Net Core Web API
-        Dependencies - 
-        Microsoft.AspNet.Mvc 7
-3. ORM - EF Core
-        Dependencies - 
-            Microsoft.EntityFrameworkCore 7    
-            Microsoft.EntityFrameworkCore.SqlServer 7
-            Microsoft.EntityFrameworkCore.Tools 7
-4. DataBase - SQL Server local DB
+## Technical Stack used:
+1. Client Side - React 18.2.0 & Node <br/>
+        Dependencies - latest version of below libraries <br/>
+            axios <br/>
+            bootstrap <br/> 
+            formik<br/>
+            yup<br/>
+            react-router-dom<br/>
+            reactjs-popup<br/>
+2. Server Side - .Net Core Web API<br/>
+        Dependencies - <br/>
+        Microsoft.AspNet.Mvc 7<br/>
+3. ORM - EF Core<br/>
+        Dependencies - <br/>
+            Microsoft.EntityFrameworkCore 7   <br/> 
+            Microsoft.EntityFrameworkCore.SqlServer 7<br/>
+            Microsoft.EntityFrameworkCore.Tools 7<br/>
+4. DataBase - SQL Server local DB<br/>
 
 Reference Images - 
-![My Image](images/1.jpg)
-![My Image](images/1)
+<kbd>
+<img src = "./images/1.jpg">
+</kbd>
