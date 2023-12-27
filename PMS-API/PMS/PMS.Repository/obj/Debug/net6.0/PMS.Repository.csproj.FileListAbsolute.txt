@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Repository.deps.json
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Repository.dll
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Repository.pdb
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Data.dll
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Model.dll
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Data.pdb
+C:\Users\PC\source\repos\PMS\PMS.Repository\bin\Debug\net6.0\PMS.Model.pdb
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.AssemblyInfo.cs
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.csproj.CopyComplete
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.dll
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\refint\PMS.Repository.dll
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\PMS.Repository.pdb
+C:\Users\PC\source\repos\PMS\PMS.Repository\obj\Debug\net6.0\ref\PMS.Repository.dll

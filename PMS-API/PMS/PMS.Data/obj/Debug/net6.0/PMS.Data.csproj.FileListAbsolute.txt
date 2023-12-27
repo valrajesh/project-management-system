@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Data.deps.json
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Data.dll
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Data.pdb
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Model.dll
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Model.pdb
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.csproj.CopyComplete
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.dll
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\refint\PMS.Data.dll
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.pdb
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\ref\PMS.Data.dll
+C:\Users\PC\source\repos\PMS\PMS.Data\bin\Debug\net6.0\PMS.Data.runtimeconfig.json
+C:\Users\PC\source\repos\PMS\PMS.Data\obj\Debug\net6.0\PMS.Data.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\PMS\PMS.Model\bin\Debug\net6.0\PMS.Model.deps.json
+C:\Users\PC\source\repos\PMS\PMS.Model\bin\Debug\net6.0\PMS.Model.dll
+C:\Users\PC\source\repos\PMS\PMS.Model\bin\Debug\net6.0\PMS.Model.pdb
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.AssemblyInfo.cs
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.dll
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\refint\PMS.Model.dll
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\PMS.Model.pdb
+C:\Users\PC\source\repos\PMS\PMS.Model\obj\Debug\net6.0\ref\PMS.Model.dll
