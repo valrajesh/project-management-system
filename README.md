@@ -29,5 +29,14 @@ Product management system help to manage (add, update, view and search) any kind
 
 Reference Images - 
 <kbd>
-<img src = "./images/1.jpg">
+<img src = "./images/1.png" width = "100%">
+</kbd>
+<kbd>
+<img src = "./images/2.png" width = "100%">
+</kbd>
+<kbd>
+<img src = "./images/3.png" width = "100%">
+</kbd>
+<kbd>
+<img src = "./images/4.png" width = "100%">
 </kbd>
