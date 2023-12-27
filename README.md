@@ -29,7 +29,7 @@ Product management system help to manage (add, update, view and search) any kind
 
 Reference Images - 
 <kbd>
-<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
+<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.PNG" width = "100%">
 </kbd></br>
 <kbd>
 <img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
