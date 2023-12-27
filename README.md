@@ -29,14 +29,14 @@ Product management system help to manage (add, update, view and search) any kind
 
 Reference Images - 
 <kbd>
-<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
+<img src = "https://i.imgur.com/KlKWlr0.png" width = "100%">
 </kbd></br>
 <kbd>
-<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
+<img src = "https://i.imgur.com/89mtmoy.png" width = "100%">
 </kbd></br>
 <kbd>
-<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
+<img src = "https://i.imgur.com/QKQehER.png" width = "100%">
 </kbd></br>
 <kbd>
-<img src = "https://github.com/valrajesh/project-management-system/blob/main/images/1.png" width = "100%">
+<img src = "https://i.imgur.com/twIYvph.png" width = "100%">
 </kbd>
